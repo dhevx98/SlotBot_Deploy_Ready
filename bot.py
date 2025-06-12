@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-TOKEN = "ISI_TOKEN_BOT_KAMU"
+TOKEN = "7260897874:AAH2hAjrKmuso_u2fWwkJmWZ80FzHNOuMJk
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=["start"])
